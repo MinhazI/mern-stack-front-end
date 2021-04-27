@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a CRUD app done in React with TypeScript and TailWindCSS. The backend was done using node with MERN Stack. This app was specifically done for CabbageApps by Minhaz Irphan.
 
 ## Available Scripts
 
